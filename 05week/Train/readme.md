@@ -1,5 +1,5 @@
 # 5주차 챌린지 과제
-Notion설명: [Notion](https://cerulean-dew-aac.notion.site/4-996d1d85308c43f285f515277611a0b3)
+Notion설명: [Notion](https://cerulean-dew-aac.notion.site/5-8401ac594bab4feb9f9f7b6125656c2e)
 ==============
 ## 인스타그램 메인화면 쿼리문 짜기
 
