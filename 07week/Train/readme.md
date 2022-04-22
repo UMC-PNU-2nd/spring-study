@@ -1,6 +1,6 @@
 
-# 6주차 챌린지 과제
-Notion설명: [Notion](https://www.notion.so/6-895182aba4654712a976b1a5c04a867a)
+# 7주차 챌린지 과제
+Notion설명: [Notion](https://www.notion.so/7-a96c0872ff8d4797b152aa19a0765847)
 =================================
 ## 유저 삭제 API만들기(PATCH 메소드 사용)
 
