@@ -2,7 +2,6 @@
 # 9주차
 ## Notion링크: [Notion](https://www.notion.so/8-4eb70978192e4664b59f9ccf5fd3658d)
 ## 추가 강의 공부: [Notion](https://cerulean-dew-aac.notion.site/Java-Spring-89db132dc045417685c13917ab7a33ad)
-=================================
 
 # 1. 게시물 추가(POST Method)
 
